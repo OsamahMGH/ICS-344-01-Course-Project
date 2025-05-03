@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Sat May  3 08:26:14 2025 as: /usr/lib/nmap/nmap --privileged -sS -p21 -oN Phase1/scans/01_nmap_ftp_open.txt 192.168.56.105
+Nmap scan report for 192.168.56.105
+Host is up (0.00020s latency).
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+MAC Address: 08:00:27:A5:8E:75 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+# Nmap done at Sat May  3 08:26:15 2025 -- 1 IP address (1 host up) scanned in 0.35 seconds
