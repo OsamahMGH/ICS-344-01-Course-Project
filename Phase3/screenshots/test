@@ -1,1 +1,3 @@
-test
+The defense mechanism that we implemented is installing Fail2ban, fail2ban will ban users attempting ssh exploit after certain amount attempts
+
+from the screenshots we can see that Fail2ban was succesful in denying and banning attacks after some attempts
